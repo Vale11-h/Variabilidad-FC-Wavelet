@@ -66,7 +66,7 @@ La salida analógica del módulo se conectó al sistema de adquisición de datos
 Los electrodos se colocan estratégicamente en el pecho del usuario para captar la señal de manera óptima. De manera que en la clavícula derecha, debajo de la clavícula izquierda, y el electrodo verde, que actúa como tierra que se situó en la zona de las costillas.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e41b5d63-e98f-4079-9bcf-50c2c8ff82c0" alt="aqqq" width="500"/>
+  <img src="https://github.com/user-attachments/assets/4c26b7de-662c-4968-b1ed-a6bc29adaa03" alt="Imagen centrada" width="500">
 </p>
 
 > Ubicación de los electrodos.
